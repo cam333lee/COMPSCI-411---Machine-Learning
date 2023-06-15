@@ -1,4 +1,4 @@
-# COMPSCI-411---Machine-Learning-Ongoing-
+# COMPSCI-411---Machine-Learning
 
 ***This is an ongoing course***
 
